@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class DoorWayViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
